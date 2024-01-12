@@ -7,7 +7,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @SpringBootApplication
 @EnableScheduling
 public class CryptoBotApplication {
-
+//hello
     public static void main(String[] args) {
         SpringApplication.run(CryptoBotApplication.class, args);
     }
